@@ -18,11 +18,21 @@ This repository also includes a PowerPoint presentation that summarizes the dash
 | Dashboard | Single-page Power BI report |
 | Presentation | 11-slide PowerPoint deck |
 
+---
+
+## Dashboard Preview
+
+![Global Power Plant Dashboard](PowerPlants_dashboard.png)
+
+---
+
 ## Repository Contents
 
 | File | Description |
 |---|---|
+| `PowerPlants Dataset.csv` | Original power plant dataset |
 | `Powerplants_Dashboard.pbix` | Interactive Power BI dashboard |
+| `PowerPlants_dashboard.png` | Dashboard preview image |
 | `PowerPlants_Presentation.pptx` | Presentation of the dashboard and key findings |
 | `README.md` | Project documentation |
 
